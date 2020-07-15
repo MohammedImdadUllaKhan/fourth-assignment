@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day2</title>
+    <h1>second day assignment</h1>
+    <!-- <script defer src="code.js"></script> -->
+</head>
+<body>
+<h1>Quote of the day</h1>
+<p>Keep your vitality. A life without education is like a blind brain.</p>
+ <script src="v
+ arlrtconst.js"></script>
+</body>
+</html> 
+
+
+
+var name ="imdad";
+var age = 23;
+var canswim = false;
+var language =["english","hindi","kannada"]
+var friends ={name:"sulaiman",hobby:"pubg"}
+console.log(name)
+console.log(age)
+console.log(canswim)
+console.log(language)
+console.table(friends)
+language.push("urdu")
